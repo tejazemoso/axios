@@ -1,0 +1,24 @@
+{
+    "people":[
+        {
+            "id":0,
+            "name":"teja"
+        },
+        {
+            "id":1,
+            "name":"divya"
+        },
+        {
+            "id":2,
+            "name":"akhila"
+        },
+        {
+            "id":3,
+            "name":"varsha"
+        },
+        {
+            "id":4,
+            "name":"preethi"
+        }
+    ]
+}
